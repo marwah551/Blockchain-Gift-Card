@@ -1,4 +1,4 @@
-# Giftchain smart contract project
+# Blockchain Gift Card Smart Contract Project
 The idea behind this smart contract is to provide the necessary logic for the customer to be able to issue a new gift card that is rechargeable and transferable.
 
 The account wanting to give a gift card as a present just has to call the corresponding function on your smart contract, provide the beneficiary account address, select the amount for the gift card, and pay for it with Ethereum using MetaMask.
